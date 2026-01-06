@@ -20,34 +20,31 @@ var bingoList = [
         "name": "Ultimate Egg"
     },
     {
-        "name": "Music Box: \"Whoever gets this will fall in love with you in an instant\""
+        "name": "Music Box"
     },
     {
         "name": "Selfi's Prized Egg"
     },
     {
-        "name": "Octopus Balls: \"Delicious Octopus Dumplings\""
+        "name": "Octopus Balls"
     },
     {
-        "name": "Aura Bike: \"Someday I will have one\""
+        "name": "Aura Bike"
     },
     {
-        "name": "3 Buildings: 3+ buildings in Save Screen"
+        "name": "3+ buildings in Save Screen"
     },
     {
-        "name": "6 Buildings: 6+ buildings in Save Screen"
+        "name": "6+ buildings in Save Screen"
     },
     {
-        "name": "9 Buildings: 9+ buildings in Save Screen"
+        "name": "9+ buildings in Save Screen"
     },
     {
-        "name": "2 Girls: 2+ girls in Save Screen"
+        "name": "2+ girls in Save Screen"
     },
     {
-        "name": "4 Girls: 4+ girls in Save Screen"
-    },
-    {
-        "name": "Monster Book: Complete 1 column of 1 elemental page of the Monster Book"
+        "name": "4+ girls in Save Screen"
     },
     {
         "name": "Nico (Good): Meet Nico at a Cultural Building"
@@ -65,7 +62,7 @@ var bingoList = [
         "name": "Fur (Good): Give Octopus Dumplings to Fur"
     },
     {
-        "name": "Fur (Evil): Make Fur mad at you; \"I don't like you either, Koh\""
+        "name": "Fur (Evil): Make Fur swear at you (deny dumplings)"
     },
     {
         "name": "Patty (Good): Have Patty serve you Octopus Wieners"
@@ -77,7 +74,7 @@ var bingoList = [
         "name": "Vivian (Good): Offer Vivian flowers after her dance at the theatre"
     },
     {
-        "name": "Vivian (Evil): Tell Vivian you missed her final, lead performance"
+        "name": "Vivian (Evil): Leave Vivian to gamble at the Casino forever"
     },
     {
         "name": "Mia (Good): Return Mia's glasses"
@@ -110,90 +107,72 @@ var bingoList = [
         "name": "Koh level 20"
     },
     {
-        "name": "3 Eggs: Carry 3 eggs in inventory"
+        "name": "3 eggs in inventory"
     },
     {
-        "name": "5 Familiars: Have 5 hatched familiars in Monster Hut"
+        "name": "5 hatched familiars in Monster Hut"
     },
     {
-        "name": "Win a race: Come first at the Racetrack"
+        "name": "Come first at the Racetrack"
     },
     {
-        "name": "King Pin: Beat Bet at the Bowling game (30 points)"
+        "name": "Beat Bet at the Bowling game (30 points)"
     },
     {
-        "name": "Whack a Mole: Beat Bet at the Hit the Mole game (20 points)"
+        "name": "777 jackpot at the Casino"
     },
     {
-        "name": "Batting game: Beat Bet at the Batting game (40 points)"
+        "name": "Beat the gym record at Barbell Toss (20 points)"
     },
     {
-        "name": "Lucky 7s: Hit the 777 jackpot at the Casino"
+        "name": "Complete theatre routine"
     },
     {
-        "name": "Barbell Toss: Beat the gym record at Barbell Toss (20 points)"
+        "name": "Stand on top of the Fountain"
     },
     {
-        "name": "Koh-Boat Show: Complete theatre routine as a U-boat (use U-boat glitch)"
+        "name": "Teach familiar a spell from a ball"
     },
     {
-        "name": "3 Bonks: Get knocked out by Fon (fail comedy act)"
+        "name": "Amass at least 1,000,000 Gold"
     },
     {
-        "name": "Fountain climb: Stand still on top of the Fountain"
+        "name": "Sacrifice a home-hatched familiar with Oleem"
     },
     {
-        "name": "Ball of Wisdom: Teach familiar a spell from a ball"
+        "name": "Deal 100+ damage in a single melee/mixture/ball attack from Koh"
     },
     {
-        "name": "Glitched Entry: Perform a Glitched Entry to the tower"
+        "name": "Destroy a rock or ice rock"
     },
     {
-        "name": "Millionaire: Amass 1,000,000 Gold"
+        "name": "Recover an item from an enemy Picket"
     },
     {
-        "name": "Oleem sacrifice: Sacrifice a home-hatched familiar with Oleem"
+        "name": "Recover an egg from an enemy Viper"
     },
     {
-        "name": "Power Attack: Deal 100+ damage in a single melee/mixture/ball attack from Koh"
+        "name": "Feed limit fruit to a Killer, then survive an attack from it"
     },
     {
-        "name": "Rock Breaker: Destroy a rock or ice rock"
+        "name": "Seal yourself off using transformed Manoeva until Earthquake"
     },
     {
-        "name": "Picket Fence: Recover an item from an enemy Picket"
+        "name": "Acquire all 3 elements of either sword/shield/wand/seed/crystal"
     },
     {
-        "name": "Egg Rescue: Recover an egg from an enemy Viper"
-    },
-    {
-        "name": "Push it to the Limit: Feed limit fruit to a Killer, then survive an attack from it"
-    },
-    {
-        "name": "Don't Fence Me In: Seal yourself off using transformed Manoeva until Earthquake"
-    },
-    {
-        "name": "Immunity: Survive till Earthquake using Immunity Glitch"
-    },
-    {
-        "name": "Our Powers Combined: Acquire all 3 elements of either sword/shield/wand/seed/crystal"
-    },
-    {
-        "name": "Troll combo: Have Hammer, Bowgun and Sword"
+        "name": "Have both a troll melee and troll ranged weapon"
     },
     {
         "name": "Cold Fusion: Fuse two water monsters"
     },
     {
-        "name": "Life on the Edge: Survive on 1HP after an enemy attack"
+        "name": "Survive on 1HP after an enemy attack"
     },
     {
         "name": "Frog Strats: Kill an enemy with your Frog melee attack"
     },
     {
-        "name": "Reflector: Reflect a spell back to the caster"
-    },
-    {
-        "name": "Moonattack: Strike an enemy while facing the other way (moonwalk glitch)"
+        "name": "Reflect a spell back to the caster"
     }
 ];
